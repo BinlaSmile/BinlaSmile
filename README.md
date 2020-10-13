@@ -30,7 +30,7 @@
 </a>
 
 <p align="center"> 
-  👇Binla`s Chart Room👇
+  👇Binla`s Chart Room👇<br>
 </p>
 
 <p align="center"> 
