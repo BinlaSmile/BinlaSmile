@@ -18,7 +18,9 @@
   ⚡Skill⚡
 </p>
 
-[![BinlaSmile's github stats](https://github-readme-stats.vercel.app/api?username=binlasmile&show_icons=true&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=binlasmile&show_icons=true&theme=vue-dark" />
+</a>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=binlasmile&hide=javascript,html&theme=vue-dark" />
