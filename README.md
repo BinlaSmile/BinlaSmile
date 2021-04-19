@@ -4,26 +4,6 @@
 - 😄 Pronouns: Start to learn some knowledge related to development technology😂
 
 <p align="center"> 
-  👤Visitor Count👤<br>
-</p>
-
-<p align="center"> 
-  <img src="https://count.getloli.com/get/@:binlasmile" alt=":binlasmile" /><br>
-</p>
-
-<p align="center"> 
-  ⚡Skill⚡<br>
-</p>
-  
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=binlasmile&show_icons=true&theme=vue-dark" />
-</a>
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=binlasmile&hide=javascript,html&theme=vue-dark" />
-</a>
-
-<p align="center"> 
   👇Binla`s Chart Room👇<br>
 </p>
 
